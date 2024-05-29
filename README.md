@@ -1,4 +1,4 @@
-# Google-Cloud-demo
+# Google Cloud Demo
 
 **_In progress_**
 
